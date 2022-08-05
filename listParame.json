@@ -2,7 +2,7 @@
 	"api_ver": "1",
 	"sig": "vWwmkzkevEplkdzRkdkckE9ejykmkzfOkdfUjWjOwdvUkEzOkE1UkyjS",
 	"unixtime": "1659691535",
-	"dict": {
+	
 		"apns_id": "0",
 		"app_id": "220",
 		"app_ver": "1.2.0",
@@ -27,6 +27,6 @@
 		"uid": "0",
 		"version": "4.0",
 		"vp": "0"
-	}
+	
 
 }
